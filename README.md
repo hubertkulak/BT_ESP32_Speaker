@@ -7,6 +7,8 @@ This project showcases the design and development of two audio-related hardware 
 
 Repositorium contains code for ESP-IDF project wirtten in C language for ESP32 bluetooth stereo audio amplifier.
 
+Please find a code in Master branch.
+
 ## 🔧 Project Overview
 
 The project consists of two main parts:
