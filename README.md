@@ -47,12 +47,5 @@ A two-layer research PCB containing three different Class D amplifiers (e.g. PAM
 - Altium Designer (PCB design)
 - Pygame (for simulation, if needed)
 
-## 📁 Structure
-
-- `hardware/` – PCB schematics and layouts (Altium)
-- `firmware/` – ESP32 source code (C/C++)
-- `measurements/` – SNR, THD graphs and oscilloscope screenshots
-
----
 
 > This project demonstrates the practical integration of embedded systems with modern audio amplifier technology, focusing on both design and measurement aspects of wireless Class D audio devices.
