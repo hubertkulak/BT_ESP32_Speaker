@@ -40,12 +40,12 @@ A two-layer research PCB containing three different Class D amplifiers (e.g. PAM
 
 ## 🛠 Technologies
 
-- Python (for auxiliary tools)
 - ESP32 + ESP-IDF
 - I2S audio interface
-- Bluetooth A2DP
+- Bluetooth Protocolos
+- SMT soldering
 - Altium Designer (PCB design)
-- Pygame (for simulation, if needed)
+
 
 
 > This project demonstrates the practical integration of embedded systems with modern audio amplifier technology, focusing on both design and measurement aspects of wireless Class D audio devices.
