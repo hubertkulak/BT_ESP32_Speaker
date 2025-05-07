@@ -3,7 +3,7 @@ BT_ESP32_Speaker
 
 # Wireless Class D Audio Amplifier System
 
-This project showcases the design and development of two audio-related hardware systems based on Class D amplifiers, using Python and ESP32 microcontroller technology. It was created as part of a diploma thesis combining passion for electronics, music, and embedded systems development.
+This project showcases the design and development of two audio-related hardware systems based on Class D amplifiers, using C and ESP32 microcontroller technology. It was created as part of a diploma thesis combining passion for electronics, music, and embedded systems development.
 
 Repositorium contains code for ESP-IDF project wirtten in C language for ESP32 bluetooth stereo audio amplifier.
 
